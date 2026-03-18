@@ -77,7 +77,9 @@ After successfully connecting to the database using the discovered credentials, 
 
 Result: Successfully revealed Flag 4.
 
-<img width="809" height="522" alt="Achievement" src="https://github.com/user-attachments/assets/ef20642a-ae1a-42b3-8467-051257cbf537" />
+
+<img width="809" height="522" alt="Achievement" src="https://github.com/user-attachments/assets/9f2341da-b339-41f8-8e05-4ca889b60dba" />
+
 
 Tools Used
 Network Discovery: ifconfig, nmap
@@ -90,4 +92,4 @@ Database Auditing: mysql-client
 
 Additional Resources
 
-The original research notes and structured documentation for this lab were managed using Obsidian. For more details, you can explore the Obsidian Research Notes.
+The original research notes and structured documentation for this lab were managed using Obsidian. For more details, you can explore the **[Obsidian Research Notes](./research-notes/CTF-Writeup.md)**.
