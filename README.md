@@ -89,4 +89,6 @@ Exfiltration: ftp
 Database Auditing: mysql-client
 
 Additional Resources
-The original research notes and structured documentation for this lab were managed using Obsidian. If you are interested in the raw Markdown files or the specific Obsidian vault structure used for this walkthrough, feel free to explore the research-notes directory in this repository.
+
+The original research notes and structured documentation for this lab were managed using Obsidian. For more details, you can explore the **[Obsidian Research Notes](./research-notes/CTF-Writeup.md)**.
+
